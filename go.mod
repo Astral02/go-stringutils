@@ -1,3 +1,3 @@
-module go-stringutils/stringutils
+module go-stringutils
 
 go 1.20
